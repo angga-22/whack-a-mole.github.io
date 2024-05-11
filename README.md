@@ -24,4 +24,4 @@ The debounce function is tested using Jest.
 
 **Demo:**
 
-https://your-github-username.github.io/whack-a-mole/
+https://whack-a-mole-github-io.vercel.app/
